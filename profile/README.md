@@ -35,7 +35,7 @@
     
 <blockquote>
 <pre>
-La Communauté Shadow c'est concu par 3 Passionnés d'Informatique.
+La Communauté Shadow Hoods c'est conçue par 3 Passionnés d'Informatique.
 Nous nous sommes rencontrés sur la Plateforme TikTok par l'intermédiaire du live de <a href="https://tiktok.com/@inoftrobinson">InoftRobinson</a>.
 Et depuis nous avons eu l'Idée de concevoir un <a href="https://discord.gg/SkARhtEzd6">Serveur Discord</a> pour partager nos Logiciels, Astuces, etc.
 Nous essayons également de faire des Projets (Bots Discord, Utilitaires Linux, Sites Internet, et + a venir).
