@@ -12,31 +12,36 @@
 <hr>
   
 <!-- DEB : Description Communauté English -->
+<details>
+  <summary>
+    <img alt="Flag EN" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-button-round-250.png" height="16px" width="16px">
+    <b>About The Community : </b>
+  </summary>
+  
 <blockquote>
-  <details>
-    <summary>
-      <img alt="Flag EN" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-button-round-250.png" height="16px" width="16px">
-      <b>About The Community : </b>
-    </summary>
-  </details>
+<pre>
+  
+</pre>
 </blockquote>
+</details>
 <!-- FIN : Description Communauté English -->
 
 <!-- DEB : Description Communauté French -->
-<blockquote>
   <details>
     <summary>
       <img alt="Flag FR" src="https://cdn.countryflags.com/thumbs/france/flag-button-round-250.png" height="16px" width="16px">
       <b>A Propos de la Communauté :</b>
-    </summary>    
+    </summary>
+    
+<blockquote>
 <pre>
 La Communauté Shadow c'est concu par 3 Passionnés d'Informatique.
 Nous nous sommes rencontrés sur la Plateforme TikTok par l'intermédiaire du live de <a href="https://tiktok.com/@inoftrobinson">InoftRobinson</a>.
 Et depuis nous avons eu l'Idée de concevoir un <a href="https://discord.gg/SkARhtEzd6">Serveur Discord</a> pour partager nos Logiciels, Astuces, etc.
 Nous essayons également de faire des Projets (Bots Discord, Utilitaires Linux, Sites Internet, et + a venir).
 </pre>
-  </details>
 </blockquote>
+</details>
 <!-- FIN : Description Communauté French -->
   
 <hr>
