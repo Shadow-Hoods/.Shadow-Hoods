@@ -24,7 +24,7 @@
 
 <!-- DEB : Description Communauté French -->
 <blockquote>
-  <details open>
+  <details>
     <summary>
       <img alt="Flag FR" src="https://cdn.countryflags.com/thumbs/france/flag-button-round-250.png" height="16px" width="16px">
       <b>A Propos de la Communauté :</b>
