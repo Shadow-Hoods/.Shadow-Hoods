@@ -1,18 +1,18 @@
 <blockquote>
-<hr>
+<!--<hr>-->
 
 <!-- DEB : Écriture Animée -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Shadow-Hoods">
     <img alt="Shadow Hoods" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=%F0%9F%95%B5%EF%B8%8F+SH4D0W+H00DS+%F0%9F%94%93">
   </a>
-</p>
+</p>-->
 <!-- FIN : Écriture Animée -->
 
 <hr>
   
 <!-- DEB : Description Communauté English -->
-<details>
+<!--<details>
   <summary>
     <img alt="Flag EN" src="https://cdn.countryflags.com/thumbs/united-kingdom/flag-button-round-250.png" height="16px" width="16px">
     <b>About The Community : </b>
@@ -23,7 +23,7 @@
   
 </pre>
 </blockquote>
-</details>
+</details>-->
 <!-- FIN : Description Communauté English -->
 
 <!-- DEB : Description Communauté French -->
